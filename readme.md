@@ -9,7 +9,7 @@ It uses bezier curve as tools for describing shape of hair.
 ![](PreviewGitHub/Vertical.gif)
 ### Bone Preview:
 ![](PreviewGitHub/Bones.gif)
-### Shader Grow Preview (Based on UV2 chanel):
+### Shader Grow Preview (Based on UV2 channel):
 ![](PreviewGitHub/Grow.gif)
 
 
