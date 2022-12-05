@@ -1,5 +1,5 @@
 ## Overview
-HairMeshGenerator - Prof of concept for generating hair as skinned mesh in Unity3d.
+HairMeshGenerator - Proof of concept for generating hair as skinned mesh in Unity3d.
 It uses bezier curve as tools for describing shape of hair.
 
 ## Preview
